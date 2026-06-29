@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+       alt="Coding Banner"
+       width="1000"
+       height="450"/>
+</p>
+
 # 💫 About Me:
 Hi 👋, I'm **Akshay Shukla**.<br><br>- 💻 Passionate about Software Development and Machine Learning.<br>- ☕ Primarily working with Java while exploring AI/ML.<br>- 🧩 Strengthening my problem-solving skills through Data Structures & Algorithms.<br>- 🚀 Building real-world projects and continuously learning new technologies.<br>- 🎯 Aspiring Software Engineer focused on creating scalable and impactful solutions.<br>- 📍 Based in Lucknow, Uttar Pradesh, India.<br><br>📫 How to Reach Me<br><br>- 📧 Email: akshayshukla466@gmail.com<br>- 💼 LinkedIn:https://www.linkedin.com/in/akshayshukla-
 
