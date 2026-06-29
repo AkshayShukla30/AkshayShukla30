@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-       alt="Coding Banner"
-       width="1000"
-       height="450"/>
+  <img src="giithub_banner.gif" height="380" width="100%" alt="GitHub Banner">
 </p>
 
 # 💫 About Me:
